@@ -85,6 +85,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![425358503-a064ea05-6432-4c09-91ea-a1bd04f6c9cf](https://github.com/user-attachments/assets/453ee8bc-9259-46ba-85e1-277e64e5b1cd)
 
+![425358693-bc2da33c-421b-45e4-a5ed-6f8688e4dae9](https://github.com/user-attachments/assets/c01b9701-be5a-4673-92dc-26ad42ecd17c)
+
+![425358906-088d3ebf-cf47-4079-a81e-07335f3c229d](https://github.com/user-attachments/assets/dbd4a2ea-e24b-4936-b21e-4d21853ae551)
+
+![425359009-b8ee1f56-a9bf-4e8c-acd7-e062f3536e1e](https://github.com/user-attachments/assets/5d8824e7-8e02-48cb-bd6c-83bb4c5b5d7b)
 
 
 ## Result:
